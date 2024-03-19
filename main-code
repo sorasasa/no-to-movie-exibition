@@ -1,9 +1,9 @@
 function sendRecurringEmail() {
 
-  ////////// UPDATE THESE  ////////// 
+  ////////// UPDATE THESE ////////// 
   var recipientEmails = "marc.a@trafalgar-releasing.com, marketing@trafalgar-releasing.com, sales@trafalgar-releasing.com, acquisitions@trafalgar-releasing.com, protect@bighitmusic.co.kr";
   var name = "[YOUR NAME]";
-  ////////// STOP HERE  ////////// 
+  ////////// STOP HERE ////////// 
 
 	var subject = "[URGENT] CANCEL D-DAY MOVIE AIRING IN ISRAEL";
   var body = "I and other fans of AGUST D/SUGA of BTS, have been tirelessly emailing your company to let you know that we will not be watching the AGUSTD: D-DAY THE MOVIE because of the decision to screen in Israel.<br><br>The Israeli occupation has been committing extremely devastating and violent attacks on Palestine, it's people, and it's other neighboring Middle Eastern Countries. Multiple experts, humanitarian organisations, world leaders, and countries have concluded that their actions classify as a Genocide that can no longer be ignored.<br><br>We will not in good conscious support this screening financially while innocent people continue to be mocked, starved, bombed, shot, mutilated, dehumanized, and killed in masses.<br><br>If you can choose to not show this movie in Russia due to it's invasion and war on Ukraine then you can likewise choose to not go through with a showing in israel. It's beyond hypocritical and unethical of your company to show this movie in a country actively participating in a Genocide and you will see a great financial loss if you go through with the screening. <br><br>Lastly, BTS nor any individual member for that matter, has ever performed in Israel despite multiple world tours in their 10 years as an artist. The deliberate and purposeful showing of AGUSTDs movie while he is away and unable to comment on the situation is very manipulative and the ARMY fandom will not stand for it.<br><br>Please take into consideration the fandom, the audience you're getting paid to satisfy, or we will be boycotting all screenings worldwide.<br><br> Regards, <br>"+name+"<br>";
